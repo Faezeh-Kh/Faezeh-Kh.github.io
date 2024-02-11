@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faezeh Khorram</title>
+    <link>https://Faezeh-Kh.github.io/authors/admin/</link>
+      <atom:link href="https://Faezeh-Kh.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Faezeh Khorram</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faezeh-Kh.github.io/authors/admin/avatar_hu3b1b590ce83a6aff14435df52db13bcf_119975_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Faezeh Khorram</title>
+      <link>https://Faezeh-Kh.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>A language-parametric test coverage framework for executable domain-specific languages</title>
+      <link>https://Faezeh-Kh.github.io/publication/jss23/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/jss23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages</title>
+      <link>https://Faezeh-Kh.github.io/publication/sle22/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/sle22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Testing and Debugging Support for Reactive Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/publication/sosym22/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/sosym22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Test Amplification for Executable Models</title>
+      <link>https://Faezeh-Kh.github.io/publication/models22/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/models22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting TDL to Provide Testing Support for Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/publication/ecmfa/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/ecmfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges &amp; opportunities in low-code testing</title>
+      <link>https://Faezeh-Kh.github.io/publication/lowcode/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/lowcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeGa4Biz: Model-Driven Framework for Developing Serious Games for Business Processes</title>
+      <link>https://Faezeh-Kh.github.io/publication/modelsward/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/modelsward/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

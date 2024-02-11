@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing of Models | Faezeh Khorram</title>
+    <link>https://Faezeh-Kh.github.io/tag/testing-of-models/</link>
+      <atom:link href="https://Faezeh-Kh.github.io/tag/testing-of-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Testing of Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faezeh-Kh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Testing of Models</title>
+      <link>https://Faezeh-Kh.github.io/tag/testing-of-models/</link>
+    </image>
+    
+    <item>
+      <title>From Coverage Computation to Fault Localization for Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/project/coverage4dsls/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/coverage4dsls/</guid>
+      <description>&lt;p&gt;This project is the implementation of my paper titled &amp;ldquo;From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages&amp;rdquo;, published by SLE 2022. For more detail, please refer to &lt;a href=&#34;https://faezeh-kh.github.io/publication/sle22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the paper&lt;/a&gt; and to the related &lt;a href=&#34;https://github.com/Faezeh-Kh/Coverage4DSLs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAMO- Automatic Test Amplification for Executable Models</title>
+      <link>https://Faezeh-Kh.github.io/project/amplification4models/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/amplification4models/</guid>
+      <description>&lt;p&gt;This project is the implementation of our paper titled &amp;ldquo;Automatic Test Amplification for Executable Models&amp;rdquo;, published by MODELS 2022. For more detail, please refer to &lt;a href=&#34;https://faezeh-kh.github.io/publication/models22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the paper&lt;/a&gt; and to the related &lt;a href=&#34;https://github.com/Faezeh-Kh/TestAmplification4Models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XTDL- A Testing Framework for Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/project/xtdl/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/xtdl/</guid>
+      <description>&lt;p&gt;XTDL is a generic testing framework for Executable Domain-Specific Languages (xDSL). It supports several features for testing executable models (the programs defined using the xDSLs), including test case definition, execution, quality evaluation, debugging, fault localization, and improvement.
+The framework is the output of my Ph.D. thesis and for theoretical information, please refer to my &lt;a href=&#34;https://faezeh-kh.github.io/publication/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

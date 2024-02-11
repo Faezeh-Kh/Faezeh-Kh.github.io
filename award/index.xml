@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Faezeh Khorram</title>
+    <link>https://Faezeh-Kh.github.io/award/</link>
+      <atom:link href="https://Faezeh-Kh.github.io/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faezeh-Kh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Awards</title>
+      <link>https://Faezeh-Kh.github.io/award/</link>
+    </image>
+    
+    <item>
+      <title>Second Place for the GDR-GPL 2022 Thesis Prize</title>
+      <link>https://Faezeh-Kh.github.io/award/gdr-gpl/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/award/gdr-gpl/</guid>
+      <description>&lt;p&gt;I obtained &lt;a href=&#34;https://gdr-gpl.cnrs.fr/node/526&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second place for the GDR-GPL 2022 thesis prize&lt;/a&gt; for my Ph.D. thesis titled &lt;a href=&#34;https://theses.hal.science/tel-03977604/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;A Testing Framework for Executable Domain-Specific Languages&amp;rdquo;&lt;/a&gt;. It is a French prize given to the best Ph.D. thesis of the year in the context of programming and software engineering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECMFA 2021 Best Paper Award</title>
+      <link>https://Faezeh-Kh.github.io/award/ecmfa-bestpaper/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/award/ecmfa-bestpaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

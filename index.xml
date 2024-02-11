@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faezeh Khorram</title>
+    <link>https://Faezeh-Kh.github.io/</link>
+      <atom:link href="https://Faezeh-Kh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Faezeh Khorram</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faezeh-Kh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Faezeh Khorram</title>
+      <link>https://Faezeh-Kh.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A language-parametric test coverage framework for executable domain-specific languages</title>
+      <link>https://Faezeh-Kh.github.io/publication/jss23/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/jss23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Place for the GDR-GPL 2022 Thesis Prize</title>
+      <link>https://Faezeh-Kh.github.io/award/gdr-gpl/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/award/gdr-gpl/</guid>
+      <description>&lt;p&gt;I obtained &lt;a href=&#34;https://gdr-gpl.cnrs.fr/node/526&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second place for the GDR-GPL 2022 thesis prize&lt;/a&gt; for my Ph.D. thesis titled &lt;a href=&#34;https://theses.hal.science/tel-03977604/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;A Testing Framework for Executable Domain-Specific Languages&amp;rdquo;&lt;/a&gt;. It is a French prize given to the best Ph.D. thesis of the year in the context of programming and software engineering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Coverage Computation to Fault Localization for Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/project/coverage4dsls/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/coverage4dsls/</guid>
+      <description>&lt;p&gt;This project is the implementation of my paper titled &amp;ldquo;From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages&amp;rdquo;, published by SLE 2022. For more detail, please refer to &lt;a href=&#34;https://faezeh-kh.github.io/publication/sle22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the paper&lt;/a&gt; and to the related &lt;a href=&#34;https://github.com/Faezeh-Kh/Coverage4DSLs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAMO- Automatic Test Amplification for Executable Models</title>
+      <link>https://Faezeh-Kh.github.io/project/amplification4models/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/amplification4models/</guid>
+      <description>&lt;p&gt;This project is the implementation of our paper titled &amp;ldquo;Automatic Test Amplification for Executable Models&amp;rdquo;, published by MODELS 2022. For more detail, please refer to &lt;a href=&#34;https://faezeh-kh.github.io/publication/models22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the paper&lt;/a&gt; and to the related &lt;a href=&#34;https://github.com/Faezeh-Kh/TestAmplification4Models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XTDL- A Testing Framework for Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/project/xtdl/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/xtdl/</guid>
+      <description>&lt;p&gt;XTDL is a generic testing framework for Executable Domain-Specific Languages (xDSL). It supports several features for testing executable models (the programs defined using the xDSLs), including test case definition, execution, quality evaluation, debugging, fault localization, and improvement.
+The framework is the output of my Ph.D. thesis and for theoretical information, please refer to my &lt;a href=&#34;https://faezeh-kh.github.io/publication/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher</title>
+      <link>https://Faezeh-Kh.github.io/talk/postdoctoral-researcher/</link>
+      <pubDate>Mon, 02 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/postdoctoral-researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Coverage Computation to Fault Localization: A Generic Framework for Domain-Specific Languages</title>
+      <link>https://Faezeh-Kh.github.io/publication/sle22/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/sle22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PC/Organizer/Presenter in MODELS 2022</title>
+      <link>https://Faezeh-Kh.github.io/talk/pc/organizer/presenter-in-models-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/pc/organizer/presenter-in-models-2022/</guid>
+      <description>&lt;p&gt;In the 25th edition of the MODELS conference, I will take part in several roles.
+First of all, I am honored to have an accepted paper in the foundation track and hopefully, I will present it at the conference.
+I was also involved in the reviewing process as an external reviewer.
+In addition, I am &lt;a href=&#34;https://conf.researchr.org/profile/models-2022/faezehkhorram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a member of the program committee&lt;/a&gt; of the &lt;a href=&#34;https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tools &amp;amp; Demonstration&lt;/a&gt; track as well as a member of the organizing committee of the 4th edition of &lt;a href=&#34;https://mleworkshop.github.io/editions/mle2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modeling Language Engineering (MLE) workshop&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Testing and Debugging Support for Reactive Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/publication/sosym22/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/sosym22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Test Amplification for Executable Models</title>
+      <link>https://Faezeh-Kh.github.io/publication/models22/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/models22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Volunteer in STAF 2022</title>
+      <link>https://Faezeh-Kh.github.io/talk/student-volunteer-in-staf-2022/</link>
+      <pubDate>Tue, 05 Jul 2022 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/student-volunteer-in-staf-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visiting Researcher at UAM</title>
+      <link>https://Faezeh-Kh.github.io/talk/visiting-researcher-at-uam/</link>
+      <pubDate>Sun, 20 Feb 2022 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/visiting-researcher-at-uam/</guid>
+      <description>&lt;p&gt;I was a visiting researcher in the &lt;a href=&#34;http://www.miso.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miso&lt;/a&gt; research group of &lt;a href=&#34;https://www.uam.es/uam/inicio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad Autónoma de Madrid&lt;/a&gt; (Madrid, Spain), working on automatic test amplification for executable models.
+My collaborative research was supervised by &lt;a href=&#34;http://arantxa.ii.uam.es/~jlara/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Juan de Lara&lt;/a&gt; and &lt;a href=&#34;http://arantxa.ii.uam.es/~eguerra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Esther Guerra&lt;/a&gt;.
+This is a secondment plan defined by the &lt;a href=&#34;https://www.lowcomote.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lowcomote&lt;/a&gt; to establish collaborations between people involved in the project.&lt;/p&gt;
+&lt;p&gt;Fortunately, the result of this collaboration is published in the proceedings of ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS).
+You can access the preprint of the paper from &lt;a href=&#34;https://faezeh-kh.github.io/publication/models22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Volunteer in MODELS 2021</title>
+      <link>https://Faezeh-Kh.github.io/talk/student-volunteer-in-models-2021/</link>
+      <pubDate>Sun, 10 Oct 2021 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/student-volunteer-in-models-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visiting Researcher at JKU</title>
+      <link>https://Faezeh-Kh.github.io/talk/visiting-researcher-at-jku/</link>
+      <pubDate>Mon, 04 Oct 2021 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/visiting-researcher-at-jku/</guid>
+      <description>&lt;p&gt;I was a visiting researcher in the Department of Business Informatics – Software Engineering (&lt;a href=&#34;https://se.jku.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WIN-SE&lt;/a&gt;) at &lt;a href=&#34;https://www.jku.at/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JKU University&lt;/a&gt; (Linz, Austria),
+working with &lt;a href=&#34;https://se.jku.at/manuel-wimmer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Manuel Wimmer&lt;/a&gt; and &lt;a href=&#34;https://se.jku.at/antonio-garmendia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antonio Garmendia&lt;/a&gt; .
+It was a secondment plan defined by the &lt;a href=&#34;https://www.lowcomote.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lowcomote&lt;/a&gt; to establish collaborations between people involved in the project.&lt;/p&gt;
+&lt;p&gt;Fortunately, the result of this collaboration is published in the proceedings of the 15th ACM SIGPLAN International Conference on Software Language Engineering (SLE 2022).
+You can access the preprint of the paper from &lt;a href=&#34;https://faezeh-kh.github.io/publication/sle22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adapting TDL to Provide Testing Support for Executable DSLs</title>
+      <link>https://Faezeh-Kh.github.io/publication/ecmfa/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/ecmfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECMFA 2021 Best Paper Award</title>
+      <link>https://Faezeh-Kh.github.io/award/ecmfa-bestpaper/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/award/ecmfa-bestpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation in JDOC 2021</title>
+      <link>https://Faezeh-Kh.github.io/talk/participation-in-jdoc-2021/</link>
+      <pubDate>Fri, 28 May 2021 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/participation-in-jdoc-2021/</guid>
+      <description>&lt;p&gt;A five-minute video has also accompanied the paper which is accessible from &lt;a href=&#34;https://drive.google.com/file/d/14AR0AgLO4jrJVgh2hxQJ86nHOK0tVCfB/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges &amp; opportunities in low-code testing</title>
+      <link>https://Faezeh-Kh.github.io/publication/lowcode/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/lowcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeGa4Biz: Model-Driven Framework for Developing Serious Games for Business Processes</title>
+      <link>https://Faezeh-Kh.github.io/publication/modelsward/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/publication/modelsward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation in NaoMod Christmas Seminar</title>
+      <link>https://Faezeh-Kh.github.io/talk/presentation-in-naomod-christmas-seminar/</link>
+      <pubDate>Mon, 16 Dec 2019 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/presentation-in-naomod-christmas-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeGa4Biz</title>
+      <link>https://Faezeh-Kh.github.io/project/sega4biz/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/sega4biz/</guid>
+      <description>&lt;p&gt;Modeling supports different levels of abstraction and hence, increases user involvement throughout the development.
+SeGa4Biz particularly provides metamodels for creating Educational Serious Games (ESG) and
+Game-Aware Process (GAP) models, and automates considerable parts of the modeling and development activities,
+via model transformation.
+This project is indeed the implementation of my paper titled &amp;ldquo;SeGa4Biz: Model-Driven Framework for Developing Serious Games for
+Business Processes&amp;rdquo;.
+For theoretical information, please refer to the &lt;a href=&#34;http://sharif.edu/~ramsin/index_files/Publications_PDF/Khorram_Taromirad_Ramsin_MODELSWARD_2021_SeGa4Biz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participation in CMMRS 2018</title>
+      <link>https://Faezeh-Kh.github.io/talk/participation-in-cmmrs-2018/</link>
+      <pubDate>Tue, 07 Aug 2018 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/participation-in-cmmrs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation in Summer School</title>
+      <link>https://Faezeh-Kh.github.io/talk/participation-in-summer-school/</link>
+      <pubDate>Mon, 07 Aug 2017 09:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/talk/participation-in-summer-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Faezeh-Kh.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

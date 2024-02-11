@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serious Games | Faezeh Khorram</title>
+    <link>https://Faezeh-Kh.github.io/tag/serious-games/</link>
+      <atom:link href="https://Faezeh-Kh.github.io/tag/serious-games/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serious Games</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faezeh-Kh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Serious Games</title>
+      <link>https://Faezeh-Kh.github.io/tag/serious-games/</link>
+    </image>
+    
+    <item>
+      <title>SeGa4Biz</title>
+      <link>https://Faezeh-Kh.github.io/project/sega4biz/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Faezeh-Kh.github.io/project/sega4biz/</guid>
+      <description>&lt;p&gt;Modeling supports different levels of abstraction and hence, increases user involvement throughout the development.
+SeGa4Biz particularly provides metamodels for creating Educational Serious Games (ESG) and
+Game-Aware Process (GAP) models, and automates considerable parts of the modeling and development activities,
+via model transformation.
+This project is indeed the implementation of my paper titled &amp;ldquo;SeGa4Biz: Model-Driven Framework for Developing Serious Games for
+Business Processes&amp;rdquo;.
+For theoretical information, please refer to the &lt;a href=&#34;http://sharif.edu/~ramsin/index_files/Publications_PDF/Khorram_Taromirad_Ramsin_MODELSWARD_2021_SeGa4Biz.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
